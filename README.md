@@ -1,6 +1,5 @@
 # coordenadas_circulo_radioX
-Programa que permite obtener las coordenadas de una circunferencia a partir del radio, usando seno y coseno.
-Usted decidira que tan precisa sean las coordenadas al digitar el número que dividira el segmento del primer cuadrante  
+Programa que permite obtener las coordenadas de una circunferencia de radio n, usando las razones trigonometricas seno y coseno. Ingresando el número de divisiones que se le hara a un sector circular de 90° se obtendran más coordenadas de la circuferencia.
 ## Diseño
 ### diagrama de flujo 
 
